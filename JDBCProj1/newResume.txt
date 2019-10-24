@@ -1,0 +1,5 @@
+name:raja
+age:30
+gender: M
+address : hyderbad
+qualification: B.tech
